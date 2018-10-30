@@ -103,12 +103,16 @@ As redes disponíveis neste repositório são as seguintes:
   - *BBraess_7_2100_10_c1_900*
 * Bar-Gera TNTP: instâncias selecionadas do repositório do [Bar-Gera](https://github.com/bstabler/TransportationNetworks).
   - *Anaheim*
+  - *Barcelona*
+  - *Berlin-Center*
   - *Berlin-Friedrichshain*
   - *Berlin-Mitte-Center*
   - *Berlin-Mitte-Prenzlauerberg-Friedrichshain-Center*
   - *Berlin-Prenzlauerberg-Center*
   - *Berlin-Tiergarten*
+  - *Eastern-Massachusetts*
   - *SiouxFalls*
+  - *Winnipeg*
 
 ## Scripts inclusos
 
